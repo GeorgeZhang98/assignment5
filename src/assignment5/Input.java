@@ -134,6 +134,7 @@ public class Input {
 
     /**
      * Exception occurs error
+     * Everything is configured in the GUI
      *
      * @param input
      */

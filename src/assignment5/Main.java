@@ -185,7 +185,7 @@ public class Main extends Application {
 	}
 
 	/**
-	 * Initialize everything
+	 * Initialize everything, basically call all the configurations
 	 * @throws URISyntaxException
 	 * @throws ClassNotFoundException
 	 */
